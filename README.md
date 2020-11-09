@@ -1,7 +1,7 @@
 # Get Go-ing with GitHub Actions
 Welcome to "Get Go-ing with GitHub Actions" ([aka.ms/go-actions](https://aka.ms/go-actions)) at GopherCon 2020 (November 9th-13th) by Aaron Wislang ([@as\_w](https://twitter.com/as_w)) and David Justice ([@davidjustice](https://twitter.com/davidjustice)).
 
-We will have two in-person sessions on:
+We will have two in-person sessions on: 
 
 - Monday November 9th from 12:00 PM-3:00 PM EST (3 Hours). See: <https://www.gophercon.com/agenda/session/395971>
 - Tuesday, November from 10th 6:00 PM - 9:00 PM EST (3 Hours). See: <https://www.gophercon.com/agenda/session/421901>
