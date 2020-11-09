@@ -44,4 +44,3 @@ to build, test and publish our containerized application to K8s.
 ## Code of Conduct
 
 We follow the GopherCon Code of Conduct which can be found [here](https://www.gophercon.com/page/1475132/code-of-conduct).
-
